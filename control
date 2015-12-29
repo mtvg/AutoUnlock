@@ -1,0 +1,8 @@
+Package: net.mtvg.AutoUnlock
+Name: AutoUnlock
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Unlocks the device on SpringBoard startup (device startup or respring)
+Author: Mat V <mat@mtvg.net>
+Section: Tweaks

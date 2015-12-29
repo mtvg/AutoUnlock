@@ -1,0 +1,1 @@
+Install Theos with [this script](https://github.com/r-plus/dotfiles/blob/master/install_theos.sh)
